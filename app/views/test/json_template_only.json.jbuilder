@@ -1,0 +1,1 @@
+json.source "json_template_only.json.jbuilder"

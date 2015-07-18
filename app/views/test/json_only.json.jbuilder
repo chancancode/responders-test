@@ -1,0 +1,1 @@
+json.source "json_only.json.jbuilder"
